@@ -1,0 +1,9 @@
+[2024-01-29T20:11:49.312] [INFO] default - This is an info message
+[2024-01-29T20:11:49.314] [ERROR] default - This is an error message Error: Something went wrong
+    at Object.<anonymous> (C:\Users\lenovo\nodesfirstapi\server.js:59:44)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47
